@@ -8,5 +8,6 @@ public class App {
         System.out.println("Hello World!");
         System.out.println("Happy Coding!");
         System.out.println("Java is great programming language!");
+        System.out.println("Write clean code");
     }
 }
